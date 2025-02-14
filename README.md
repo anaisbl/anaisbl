@@ -17,8 +17,8 @@ I'm Anaïs – a data scientist with a soft spot for problem-solving, building c
 - When I’m not coding, I’m probably drawing, skateboarding, or making a to-do list just to cross things off for the dopamine ✨  
 
 ### 📫 Let’s Connect:
-- **LinkedIn:** [linkedin.com/in/anais-blenet](#)  
-- **Portfolio:** [[yourwebsite.com](https://nana-16ec2.web.app/)](#)  
+- **LinkedIn:** [https://linkedin.com/in/anais-blenet](#)  
+- **Portfolio:** [https://nana-16ec2.web.app/](#)  
 - **GitHub:** Well, you’re already here!  
 
 Let’s build something awesome. 🚀  
