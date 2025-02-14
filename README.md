@@ -4,8 +4,8 @@ I'm Anaïs – a data scientist with a soft spot for problem-solving, building c
 
 ### 🔧 What I Do:
 - 🧠 **Machine Learning & AI** – training models, object detection, and working with big data  
-- 🌐 **Web Development** – crafting functional and user-friendly apps  
-- 📊 **Data Analytics** – uncovering insights and making data-driven decisions  
+- 🌐 **Web Development** – crafting simple, cute websites  
+- 📊 **Data Analytics** – uncovering insights and using banned pie-charts  
 
 ### 🌱 What I’m Exploring:
 - 💻 **Software Development** – finally putting the OOP theory into practice  
