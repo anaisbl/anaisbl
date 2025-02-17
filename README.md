@@ -1,6 +1,6 @@
 ## Hey there! 👋  
 
-I'm Anaïs – a data scientist with a soft spot for problem-solving, building cool things, and making sense of messy data.  
+I'm Anaïs – a graduate student | data scientist with a soft spot for data, problem-solving and building cool things.  
 
 ### 🔧 What I Do:
 - 🧠 **Machine Learning & AI** – training models, object detection, and working with big data  
